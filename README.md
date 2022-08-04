@@ -1,0 +1,2 @@
+# basic-python
+amstrong number
